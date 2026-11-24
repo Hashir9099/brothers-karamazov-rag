@@ -1,0 +1,7 @@
+transformers
+peft
+accelerate
+sentence-transformers
+rank_bm25
+huggingface_hub
+numpy
